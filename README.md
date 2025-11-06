@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Gonçalo Monteiro
 
-<!--
-**goncalomonteiro-dev/goncalomonteiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **CTeSP student in Information Systems Programming**  
+🚀 Passionate about **automation, AI**, and building tools that solve real problems  
+🌍 Goal: work remotely as a software developer for international companies  
+📍 Portugal
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning
+- Python (automation, scripts, small projects)
+- Java (OOP fundamentals)
+- Web development (HTML, CSS, JavaScript)
+- Git & GitHub workflow
+- Software engineering and development basics
+
+---
+
+## 🔧 Tech Stack
+**Languages:** Python, Java, C, JavaScript  
+**Web:** HTML, CSS
+**Databases:** MySQL  
+**Tools:** Git, GitHub, VS Code, Linux
+
+---
+
+## 📁 Main Repositories
+### 🧪 Learning
+Concept practice: Python, Java, algorithms, and web basics.
+
+### 💡 Projects
+Small, independent projects (automation, bots, scripts).
+
+### 🌟 Portfolio
+My best and most polished projects — constantly improving.
+
+### 🎓 University Projects
+Assignments and coursework from my CTeSP.
+
+---
+
+## 📈 Current Focus
+✅ Improving my Python skills  
+✅ Building consistent projects for my portfolio  
+✅ Exploring automation + AI  
+✅ Strengthening fundamentals for remote work opportunities  
+
+---
+
+## 📫 Contact Me
+📧 Email: **gds.monteiroo@gmail.com**  
+🔗 LinkedIn: **www.linkedin.com/in/goncalomonteiro-dev**
+
+---
+
+### 🖥️ “The best way to grow as a developer is to build, break, learn, repeat.”
