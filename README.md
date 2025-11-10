@@ -24,21 +24,6 @@
 
 ---
 
-## 📁 Main Repositories
-### 🧪 Learning
-Concept practice: Python, Java, algorithms, and web basics.
-
-### 💡 Projects
-Small, independent projects (automation, bots, scripts).
-
-### 🌟 Portfolio
-My best and most polished projects — constantly improving.
-
-### 🎓 University Projects
-Assignments and coursework from my CTeSP.
-
----
-
 ## 📈 Current Focus
 ✅ Improving my Python skills  
 ✅ Building consistent projects for my portfolio  
