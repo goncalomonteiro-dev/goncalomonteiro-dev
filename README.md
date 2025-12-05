@@ -1,41 +1,59 @@
-# 👋 Hi, I'm Gonçalo Monteiro
+# 👋 Olá, eu sou o Gonçalo Monteiro
 
-💻 **CTeSP student in Information Systems Programming**  
-🚀 Passionate about **automation, AI**, and building tools that solve real problems  
-🌍 Goal: work remotely as a software developer for international companies  
+💻 **Estudante de CTeSP em Programação de Sistemas de Informação**  
+🚀 Apaixonado por **automação, IA** e pela criação de ferramentas que resolvem problemas reais.  
+🌍 Objetivo: trabalhar remotamente como desenvolvedor de software para empresas internacionais. 
 📍 Portugal
 
 ---
 
-## 🧠 What I'm Learning
-- Python (automation, scripts, small projects)
-- Java (OOP fundamentals)
-- Web development (HTML, CSS, JavaScript)
+## 🧠 O que eu estou a aprender
+- Python (automação, scripts, pequenos projetos)
+- Java (POO)
+- Desenvolvimento WEB (HTML, CSS, JavaScript)
 - Git & GitHub workflow
-- Software engineering and development basics
+- Fundamentos de engenharia e desenvolvimento de software
 
 ---
 
-## 🔧 Tech Stack
-**Languages:** Python, Java, C, JavaScript  
+## 🔧 Desenvolvimento Técnico
+**Linguagens:** Python, Java, C, JavaScript  
 **Web:** HTML, CSS
-**Databases:** MySQL  
-**Tools:** Git, GitHub, VS Code, Linux
+**Base de Dados:** MySQL  
+**Ferramentas:** Git, GitHub, VS Code, Linux
+
+## 🤝 Desenvolvimento Pessoal
+- Responsabilidade  
+- Comunicação  
+- Trabalho em equipa  
+- Aprendizagem rápida  
+- Pensamento crítico  
+- Organização  
 
 ---
 
-## 📈 Current Focus
-✅ Improving my Python skills  
-✅ Building consistent projects for my portfolio  
-✅ Exploring automation + AI  
-✅ Strengthening fundamentals for remote work opportunities  
+## 📈 Foco Atual
+✅ Aprimorar as minhas competências em Python  
+✅ Criar projetos consistentes para o meu portfólio
+✅ Explorar automação + IA  
+✅ Fortalecer os fundamentos para as oportunidades de trabalho remoto  
+
+---
+ 
+## 📄 Curriculum Vitae
+👉 
 
 ---
 
-## 📫 Contact Me
+## 🎥 Vídeo Pitch
+👉 
+
+---
+
+## 📫 Contacta-me
 📧 Email: **gds.monteiroo@gmail.com**  
 🔗 LinkedIn: **www.linkedin.com/in/goncalomonteiro-dev**
 
 ---
 
-### 🖥️ “The best way to grow as a developer is to build, break, learn, repeat.”
+### 🖥️ “A melhor maneira de crescer como desenvolvedor é construir, partir, aprender e repetir.”
