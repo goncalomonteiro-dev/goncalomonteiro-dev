@@ -23,6 +23,8 @@
 **Base de Dados:** MySQL  
 **Ferramentas:** Git, GitHub, VS Code, Linux
 
+---
+
 ## 🤝 Desenvolvimento Pessoal
 - Responsabilidade  
 - Comunicação  
