@@ -3,6 +3,7 @@
 💻 **Estudante de CTeSP em Programação de Sistemas de Informação**  
 🚀 Apaixonado por **automação, IA** e pela criação de ferramentas que resolvem problemas reais.  
 🌍 Objetivo: trabalhar remotamente como desenvolvedor de software para empresas internacionais. 
+
 📍 Portugal
 
 ---
@@ -35,6 +36,7 @@
 ## 📈 Foco Atual
 ✅ Aprimorar as minhas competências em Python  
 ✅ Criar projetos consistentes para o meu portfólio
+
 ✅ Explorar automação + IA  
 ✅ Fortalecer os fundamentos para as oportunidades de trabalho remoto  
 
