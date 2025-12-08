@@ -20,6 +20,7 @@
 ## 🔧 Desenvolvimento Técnico
 **Linguagens:** Python, Java, C, JavaScript  
 **Web:** HTML, CSS
+
 **Base de Dados:** MySQL  
 **Ferramentas:** Git, GitHub, VS Code, Linux
 
