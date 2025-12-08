@@ -50,7 +50,7 @@
 ---
 
 ## 🎥 Vídeo Pitch
-👉 
+👉 https://youtu.be/nwmOEbawanU?feature=shared
 
 ---
 
