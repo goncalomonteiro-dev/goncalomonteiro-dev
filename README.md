@@ -46,7 +46,7 @@
 ---
  
 ## 📄 Curriculum Vitae
-👉 
+👉 https://drive.google.com/file/d/1S3xShmK4mdFc9OQuncwmGjUyyWLynzfP/view?usp=sharing
 
 ---
 
