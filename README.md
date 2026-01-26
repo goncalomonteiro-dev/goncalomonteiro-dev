@@ -46,12 +46,12 @@
 ---
  
 ## 📄 Curriculum Vitae
-👉 https://drive.google.com/file/d/1v3XkPMhmHwfxxxL-nmw9_UCsietzyQCi/view?usp=drivesdk
+👉 https://drive.google.com/file/d/1mxhTd6IAxHvQmtaIeoHZ6EbTj4z5FnZ-/view?usp=drive_link
 
 ---
 
 ## 🎥 Vídeo Pitch
-👉 https://youtu.be/nwmOEbawanU?feature=shared
+👉 
 
 ---
 
