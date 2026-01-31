@@ -2,7 +2,7 @@
 
 💻 **Estudante de CTeSP em Programação de Sistemas de Informação**  
 🚀 Apaixonado por **automação, IA** e pela criação de ferramentas que resolvem problemas reais.  
-🌍 Objetivo: trabalhar remotamente como desenvolvedor de software para empresas internacionais. 
+🌍 Objetivo: trabalhar como desenvolvedor de software num ambiente agradável com equipas excelentes. 
 
 📍 Portugal
 
